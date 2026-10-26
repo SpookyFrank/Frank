@@ -1,0 +1,8 @@
+[
+ {"id":"venus-day","title":"A Day Longer Than a Year?","fact":"Venus takes about 243 Earth days to rotate once, but only about 225 Earth days to orbit the Sun.","source":"https://science.nasa.gov/venus/facts/","keywords":["Venus","planet","rotation"]},
+ {"id":"octopus-hearts","title":"An Animal With Three Hearts","fact":"An octopus has three hearts. Two pump blood to the gills, while one pumps it to the rest of the body.","source":"https://oceanservice.noaa.gov/facts/octopus.html","keywords":["octopus","ocean","hearts"]},
+ {"id":"sound-space","title":"Can You Hear Sound in Space?","fact":"Sound needs a medium such as air or water to travel. In the near vacuum of space, ordinary sound cannot travel between spacecraft.","source":"https://www.nasa.gov/","keywords":["space","sound","vacuum"]},
+ {"id":"lightning-heat","title":"Lightning Is Extremely Hot","fact":"A lightning channel can heat the surrounding air to about 30,000 kelvin for a brief moment.","source":"https://www.weather.gov/safety/lightning-science-overview","keywords":["lightning","storm","heat"]},
+ {"id":"sharks-older-trees","title":"Sharks Are Older Than Trees","fact":"Shark ancestors existed hundreds of millions of years ago, before the earliest known trees appeared.","source":"https://www.nhm.ac.uk/discover/sharks-have-been-around-longer-than-trees.html","keywords":["sharks","trees","fossils"]},
+ {"id":"moon-footprints","title":"Footprints on the Moon","fact":"Without wind or rain like Earth's, footprints on the Moon can remain for a very long time, though micrometeorites gradually alter the surface.","source":"https://science.nasa.gov/moon/","keywords":["moon","footprints","astronaut"]}
+]

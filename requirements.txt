@@ -1,0 +1,7 @@
+google-api-python-client>=2.150,<3
+google-auth>=2.35,<3
+google-auth-oauthlib>=1.2,<2
+google-genai>=1.0,<2
+Pillow>=11,<13
+edge-tts>=7,<8
+requests>=2.32,<3
